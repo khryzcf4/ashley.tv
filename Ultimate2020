@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,iptvtools_8
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:-1,iptvtools_74
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:-1,iptvtools_76
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8
